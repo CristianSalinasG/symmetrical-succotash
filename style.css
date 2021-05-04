@@ -1,0 +1,29 @@
+.encabezado{
+    background-color: #c9c9c9;
+    padding: 10px;
+    text-align: right;
+    text-decoration-line: underline;
+    color: rebeccapurple;
+}
+nav{
+    margin-left: 200px;
+    margin-right: 200px;
+}
+.texto{
+    text-align: justify;
+}
+img.imagen{
+        height: 8%;
+        width: 8%;
+}
+p.pie{
+    background-color: #c9c9c9;
+    text-align: center;
+    padding: auto ;
+}
+#nombre{
+    font-weight: bold;
+}
+#correo{
+    font-style: italic;
+}
